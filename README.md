@@ -66,4 +66,5 @@ Colorama for colorful terminal text.
 
 ## Contact
 
-For inquiries or feedback, please reach out at [elghaithheni@gmail.com](mailto:elghaithheni@gmail.com).
+For inquiries or feedback, please reach out at [ankushsingh3542@gmail.com](ankushsingh3542@gmail.com).
+BY ANKUSH KUMAR SINGH 
